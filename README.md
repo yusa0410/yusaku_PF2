@@ -1,24 +1,37 @@
-# README
+## サイト概要
+アミューズメントカジノの紹介・レビューサイト    
+・アミューズメントカジノを探すことができる。（関東圏）  
+・お店のレビューをすることができる。  
+・コミュニティを作ることができる。  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### サイトテーマ
+  
 
-Things you may want to cover:
+### テーマを選んだ理由
+映画好きでたくさんの映画を鑑賞した経験から、ジャンルや評価ごとに分けて保存できるようなアプリが欲しいと
+以前から思っていた。  
+具体的には以下３点のニーズを満たすためです。  
+・自分が鑑賞した映画をジャンルや評価ごとに整理して保存しておきたい人のため  
+・他の映画好きの人の鑑賞した映画を見たり、そこからつながる交流をしたい人のため  
+・好きな作品の感想などをコメントにてシェアしたい人のため。  
 
-* Ruby version
+### ターゲットユーザ
+・初めてアミューズメントカジノに行く人。　　
+・ポーカーやブラックジャックなど、始めたばかりの人。　　
 
-* System dependencies
+### 主な利用シーン
+・レビューの高いお店を探したいとき。　　
+・コミュニティを作りたいとき。　　
 
-* Configuration
+## 設計書
 
-* Database creation
 
-* Database initialization
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 「pixabay」 フリー画像 https://pixabay.com/ja/
