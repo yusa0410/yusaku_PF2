@@ -24,7 +24,7 @@
 ・コミュニティを作りたいとき。  
 
 ## 設計書
-
+https://app.diagrams.net/#G15mGmUJPLfEm6E9k9_9vU9ZOQZF4d1G1u
 
 ## 開発環境
 - OS：Linux(CentOS)
